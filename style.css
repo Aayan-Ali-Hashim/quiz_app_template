@@ -1,0 +1,33 @@
+.question{
+    background-color: rgb(255, 134, 198);
+    border:2px solid rgb(249, 9, 9);
+    border-radius: 7px;
+    padding-bottom: 22px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.karachi{
+    background-color: rgb(8, 227, 103);
+    border: 2px solid rgb(255, 104, 222);
+    padding-bottom: 10px;
+    max-width: 500px;
+    text-align: center;
+
+}
+.quetta{
+    background-color: rgb(255, 216, 179);
+    border: 2px solid rgb(255, 104, 222);
+    margin-top: 20px;
+    padding-bottom: 10px;
+    max-width: 500px;
+    text-align: center;
+}
+.right{
+    border: 2px solid black;
+    padding-left: 70%;
+    padding-top: ;
+    max-width: 80px;
+}
+.islamabad{
+   
+}
